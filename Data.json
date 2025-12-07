@@ -1,7 +1,20 @@
 {
   "users": {
     "omes": {
-      "items": [],
+      "items": [
+        {
+          "id": 1765080738930,
+          "type": "pawn",
+          "name": "ทองตัวเอง",
+          "amount": 1000,
+          "paidMonth": 0,
+          "isPaused": false,
+          "pawnMode": "baht",
+          "fixed_int": 12.5,
+          "date": "2025-12-02",
+          "expireDate": "2026-04-02"
+        }
+      ],
       "history": [],
       "planMode": false,
       "planMonths": 6,
