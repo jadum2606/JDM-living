@@ -25,6 +25,15 @@
           "fixed_int": 275,
           "date": "2025-10-19",
           "expireDate": "2026-02-19"
+        },
+        {
+          "id": 1765081226653,
+          "type": "expense",
+          "name": "ให้ลูก",
+          "amount": 1000,
+          "paidMonth": 0,
+          "isPaused": false,
+          "isPaid": false
         }
       ],
       "history": [],
