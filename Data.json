@@ -70,6 +70,15 @@
           "paidMonth": 0,
           "isPaused": false,
           "isPaid": false
+        },
+        {
+          "id": 1765107175101,
+          "type": "credit",
+          "name": "คอม",
+          "amount": 7249,
+          "paidMonth": 0,
+          "isPaused": false,
+          "minBaht": 1500
         }
       ],
       "history": [],
