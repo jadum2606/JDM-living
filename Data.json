@@ -34,6 +34,15 @@
           "paidMonth": 0,
           "isPaused": false,
           "isPaid": false
+        },
+        {
+          "id": 1765081247700,
+          "type": "expense",
+          "name": "ค่าเรียนพิเศษลูก",
+          "amount": 500,
+          "paidMonth": 0,
+          "isPaused": false,
+          "isPaid": false
         }
       ],
       "history": [],
