@@ -61,6 +61,15 @@
           "paidMonth": 0,
           "isPaused": false,
           "isPaid": false
+        },
+        {
+          "id": 1765081353675,
+          "type": "expense",
+          "name": "ค่าเน็ตมือถือตัวเอง",
+          "amount": 500,
+          "paidMonth": 0,
+          "isPaused": false,
+          "isPaid": false
         }
       ],
       "history": [],
