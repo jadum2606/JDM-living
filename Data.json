@@ -43,6 +43,15 @@
           "paidMonth": 0,
           "isPaused": false,
           "isPaid": false
+        },
+        {
+          "id": 1765081293651,
+          "type": "expense",
+          "name": "ค่าเน็ตมือถือแม่",
+          "amount": 426.93,
+          "paidMonth": 0,
+          "isPaused": false,
+          "isPaid": false
         }
       ],
       "history": [],
