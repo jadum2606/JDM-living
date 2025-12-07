@@ -79,6 +79,16 @@
           "paidMonth": 0,
           "isPaused": false,
           "minBaht": 1500
+        },
+        {
+          "id": 1765107338934,
+          "type": "install",
+          "name": "มือถือเมีย",
+          "amount": 7490,
+          "paidMonth": 0,
+          "isPaused": false,
+          "termVal": 1290,
+          "left": null
         }
       ],
       "history": [],
