@@ -13,6 +13,18 @@
           "fixed_int": 12.5,
           "date": "2025-12-02",
           "expireDate": "2026-04-02"
+        },
+        {
+          "id": 1765080820667,
+          "type": "pawn",
+          "name": "ทองของแม่ยืมจำ",
+          "amount": 22000,
+          "paidMonth": 0,
+          "isPaused": false,
+          "pawnMode": "baht",
+          "fixed_int": 275,
+          "date": "2025-10-19",
+          "expireDate": "2026-02-19"
         }
       ],
       "history": [],
