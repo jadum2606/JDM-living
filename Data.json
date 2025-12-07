@@ -73,9 +73,9 @@
         }
       ],
       "history": [],
-      "planMode": false,
+      "planMode": true,
       "planMonths": 6,
-      "minLiving": 0
+      "minLiving": 3000
     }
   }
 }
