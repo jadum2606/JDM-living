@@ -1,1 +1,20 @@
-{}
+{
+  "items": [
+    {
+      "id": 1765074109774,
+      "type": "pawn",
+      "name": "ฟหกฟหกฟ",
+      "amount": 10000,
+      "paidMonth": 0,
+      "isPaused": false,
+      "pawnMode": "baht",
+      "fixed_int": 120,
+      "date": "2025-11-11",
+      "expireDate": "2026-04-10"
+    }
+  ],
+  "history": [],
+  "planMode": false,
+  "planMonths": 6,
+  "minLiving": 0
+}
