@@ -58,9 +58,9 @@
           "type": "expense",
           "name": "ค่าเน็ตมือถือเมีย",
           "amount": 486.93,
-          "paidMonth": 0,
+          "paidMonth": 517.96,
           "isPaused": false,
-          "isPaid": false
+          "isPaid": true
         },
         {
           "id": 1765081353675,
@@ -92,6 +92,12 @@
         }
       ],
       "history": [
+        {
+          "date": "31 ธ.ค. 2568",
+          "name": "ค่าเน็ตมือถือเมีย",
+          "amt": 517.96,
+          "img": null
+        },
         {
           "date": "31 ธ.ค. 2568",
           "name": "ค่าเน็ตมือถือแม่",
