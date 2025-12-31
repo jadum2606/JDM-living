@@ -31,9 +31,9 @@
           "type": "expense",
           "name": "ให้ลูก",
           "amount": 1000,
-          "paidMonth": 0,
+          "paidMonth": 2200,
           "isPaused": false,
-          "isPaid": false
+          "isPaid": true
         },
         {
           "id": 1765081247700,
@@ -91,7 +91,14 @@
           "left": null
         }
       ],
-      "history": [],
+      "history": [
+        {
+          "date": "31 ธ.ค. 2568",
+          "name": "ให้ลูก",
+          "amt": 2200,
+          "img": null
+        }
+      ],
       "planMode": true,
       "planMonths": 6,
       "minLiving": 3000
