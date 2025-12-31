@@ -67,9 +67,9 @@
           "type": "expense",
           "name": "ค่าเน็ตมือถือตัวเอง",
           "amount": 500,
-          "paidMonth": 0,
+          "paidMonth": 1011.93,
           "isPaused": false,
-          "isPaid": false
+          "isPaid": true
         },
         {
           "id": 1765107175101,
@@ -92,6 +92,12 @@
         }
       ],
       "history": [
+        {
+          "date": "31 ธ.ค. 2568",
+          "name": "ค่าเน็ตมือถือตัวเอง",
+          "amt": 1011.93,
+          "img": null
+        },
         {
           "date": "31 ธ.ค. 2568",
           "name": "ค่าเน็ตมือถือเมีย",
