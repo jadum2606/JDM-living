@@ -75,8 +75,8 @@
           "id": 1765107175101,
           "type": "credit",
           "name": "คอม",
-          "amount": 7249,
-          "paidMonth": 0,
+          "amount": 6249,
+          "paidMonth": 1000,
           "isPaused": false,
           "minBaht": 1500
         },
@@ -92,6 +92,12 @@
         }
       ],
       "history": [
+        {
+          "date": "31 ธ.ค. 2568",
+          "name": "คอม",
+          "amt": 1000,
+          "img": null
+        },
         {
           "date": "31 ธ.ค. 2568",
           "name": "ค่าเน็ตมือถือตัวเอง",
