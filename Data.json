@@ -49,9 +49,9 @@
           "type": "expense",
           "name": "ค่าเน็ตมือถือแม่",
           "amount": 426.93,
-          "paidMonth": 0,
+          "paidMonth": 426.93,
           "isPaused": false,
-          "isPaid": false
+          "isPaid": true
         },
         {
           "id": 1765081323718,
@@ -92,6 +92,12 @@
         }
       ],
       "history": [
+        {
+          "date": "31 ธ.ค. 2568",
+          "name": "ค่าเน็ตมือถือแม่",
+          "amt": 426.93,
+          "img": null
+        },
         {
           "date": "31 ธ.ค. 2568",
           "name": "ให้ลูก",
