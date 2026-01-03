@@ -31,9 +31,9 @@
           "type": "expense",
           "name": "ให้ลูก",
           "amount": 1000,
-          "paidMonth": 2200,
+          "paidMonth": 0,
           "isPaused": false,
-          "isPaid": true
+          "isPaid": false
         },
         {
           "id": 1765081247700,
@@ -49,34 +49,34 @@
           "type": "expense",
           "name": "ค่าเน็ตมือถือแม่",
           "amount": 426.93,
-          "paidMonth": 426.93,
+          "paidMonth": 0,
           "isPaused": false,
-          "isPaid": true
+          "isPaid": false
         },
         {
           "id": 1765081323718,
           "type": "expense",
           "name": "ค่าเน็ตมือถือเมีย",
           "amount": 486.93,
-          "paidMonth": 517.96,
+          "paidMonth": 0,
           "isPaused": false,
-          "isPaid": true
+          "isPaid": false
         },
         {
           "id": 1765081353675,
           "type": "expense",
           "name": "ค่าเน็ตมือถือตัวเอง",
           "amount": 500,
-          "paidMonth": 1011.93,
+          "paidMonth": 0,
           "isPaused": false,
-          "isPaid": true
+          "isPaid": false
         },
         {
           "id": 1765107175101,
           "type": "credit",
           "name": "คอม",
           "amount": 6249,
-          "paidMonth": 1000,
+          "paidMonth": 0,
           "isPaused": false,
           "minBaht": 1500
         },
@@ -85,7 +85,7 @@
           "type": "install",
           "name": "มือถือเมีย",
           "amount": 6150,
-          "paidMonth": 1340,
+          "paidMonth": 0,
           "isPaused": false,
           "termVal": 1290,
           "left": 0
