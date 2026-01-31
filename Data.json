@@ -75,8 +75,8 @@
           "id": 1765107175101,
           "type": "credit",
           "name": "คอม",
-          "amount": 6249,
-          "paidMonth": 0,
+          "amount": 5549,
+          "paidMonth": 700,
           "isPaused": false,
           "minBaht": 1500
         },
@@ -92,6 +92,12 @@
         }
       ],
       "history": [
+        {
+          "date": "31 ม.ค. 2569",
+          "name": "คอม",
+          "amt": 700,
+          "img": null
+        },
         {
           "date": "31 ม.ค. 2569",
           "name": "มือถือเมีย",
