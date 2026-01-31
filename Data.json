@@ -84,14 +84,20 @@
           "id": 1765107338934,
           "type": "install",
           "name": "มือถือเมีย",
-          "amount": 6150,
-          "paidMonth": 0,
+          "amount": 4860,
+          "paidMonth": 1290,
           "isPaused": false,
           "termVal": 1290,
           "left": 0
         }
       ],
       "history": [
+        {
+          "date": "31 ม.ค. 2569",
+          "name": "มือถือเมีย",
+          "amt": 1290,
+          "img": null
+        },
         {
           "date": "31 ธ.ค. 2568",
           "name": "มือถือเมีย",
